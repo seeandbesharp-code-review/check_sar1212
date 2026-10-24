@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <style>
+        *{
+            direction:rtl
+        }
+        body{
+            display :flex;
+            flex-direction:row;
+            gap:30px;
+        }
+        #newUser {
+            display: none;
+        }
+        .login{
+            display: flex;
+            flex-direction: column;
+            width:300px;
+            gap:10px
+        }
+        #newUser {
+            flex-direction: column;
+            width: 300px;
+            gap:10px;
+        }
+        #clickNewUser{
+            color:blue;
+            background:none;
+            border:none;
+            text-decoration:underline;
+            cursor:pointer
+        }
+        #clickNewUser:hover{
+            color:red
+        }
+        #er, #er2{
+            color:red;
+            font-size:25px;
+        }
+        input ,button{
+            max-width: 180px;
+        }
+    </style>
+    <script src="home.js"></script>
+    <title></title>
+</head>
+<body>
+    <div class="login">
+    <div class="userName">שם משתמש</div>
+    <input id="userName" type="email"/>
+    <div class="password">סיסמה</div>
+    <input id="password" type="password" />
+    <button id="login" onclick="login()">התחברות</button>
+        <div id="er" ></div>
+    <button id="clickNewUser" onclick="revealSighning()">משתמש חדש</button>
+    </div>
+    <div id="newUser">
+        <div class="newUserName">שם משתמש</div>
+        <input id="newUserName" type="email"/>
+        <div class="newPassword">סיסמה</div>
+        <input id="newPassword" type="password" />
+        <div id="fisrtName">שם פרטי</div>
+        <input id="firstName" />
+        <div >שם משפחה</div>
+        <input id="lastName" />
+        <div id="er2"></div>
+        <button id="signin" onclick="signIn()">רישום</button>
+    </div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+wwwroot\Home.html
+wwwroot\home.js
+wwwroot\UserDetailes.html
+wwwroot\UserDetails.js
+E:\‏‏WebApi - עותק\WebApi\wwwroot\Home.html
+E:\‏‏WebApi - עותק\WebApi\wwwroot\home.js
+E:\‏‏WebApi - עותק\WebApi\wwwroot\UserDetailes.html
+E:\‏‏WebApi - עותק\WebApi\wwwroot\UserDetails.js

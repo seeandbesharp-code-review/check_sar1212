@@ -1,0 +1,167 @@
+M:\WebApi\WebApi\bin\Debug\net10.0\appsettings.Development.json
+M:\WebApi\WebApi\bin\Debug\net10.0\appsettings.json
+M:\WebApi\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+M:\WebApi\WebApi\bin\Debug\net10.0\WebApi.exe
+M:\WebApi\WebApi\bin\Debug\net10.0\WebApi.deps.json
+M:\WebApi\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+M:\WebApi\WebApi\bin\Debug\net10.0\WebApi.dll
+M:\WebApi\WebApi\bin\Debug\net10.0\WebApi.pdb
+M:\WebApi\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+M:\WebApi\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebApi\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+M:\WebApi\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+M:\WebApi\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+M:\WebApi\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+M:\WebApi\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+M:\WebApi\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+M:\WebApi\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+M:\WebApi\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+M:\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+M:\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+M:\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+M:\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+M:\WebApi\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+M:\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+M:\WebApi\WebApi\obj\Debug\net10.0\WebApi.dll
+M:\WebApi\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+M:\WebApi\WebApi\obj\Debug\net10.0\WebApi.pdb
+M:\WebApi\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+M:\WebApi\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+M:\WebApi\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+M:\WebApi\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-h8n78qstx9-h8n78qstx9.gz
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\appsettings.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.exe
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.deps.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.dll
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.pdb
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.dll
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.pdb
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\x0xipt16zc-{0}-yqs333p4mq-yqs333p4mq.gz
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\qoycjt52hy-{0}-joa6os0yua-joa6os0yua.gz
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-9seg9odhki-9seg9odhki.gz
+C:\Users\User\Downloads\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-71yb73h0fn-71yb73h0fn.gz
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\appsettings.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.exe
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.deps.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.dll
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.pdb
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-9seg9odhki-9seg9odhki.gz
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\x0xipt16zc-{0}-yqs333p4mq-yqs333p4mq.gz
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-2pe8qtrfyl-2pe8qtrfyl.gz
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.dll
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.pdb
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+C:\Users\8864\Documents\C#\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\qoycjt52hy-{0}-mde05o7wku-mde05o7wku.gz
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\appsettings.Development.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\appsettings.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.exe
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.deps.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.pdb
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-9seg9odhki-9seg9odhki.gz
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\qoycjt52hy-{0}-mde05o7wku-mde05o7wku.gz
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\x0xipt16zc-{0}-yqs333p4mq-yqs333p4mq.gz
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-2pe8qtrfyl-2pe8qtrfyl.gz
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.pdb
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\שריתי פרידמן ושני איתן\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+E:\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\appsettings.Development.json
+E:\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\appsettings.json
+E:\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+E:\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+E:\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.exe
+E:\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.deps.json
+E:\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+E:\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.dll
+E:\‏‏WebApi - עותק\WebApi\bin\Debug\net10.0\WebApi.pdb
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-9seg9odhki-9seg9odhki.gz
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.dll
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.pdb
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\qoycjt52hy-{0}-4p9rn8d7bs-4p9rn8d7bs.gz
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\x0xipt16zc-{0}-rvubohj9ql-rvubohj9ql.gz
+E:\‏‏WebApi - עותק\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-8acl52ypn8-8acl52ypn8.gz

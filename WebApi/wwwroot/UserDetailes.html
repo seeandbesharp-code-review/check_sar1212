@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script defer src="UserDetails.js"></script>
+    <style>
+        #icon {
+            font-size: 100px;
+            color: green;
+        }
+
+        #updating {
+            display: none;
+            flex-direction: column;
+            width: 300px;
+            gap: 10px;
+        }
+        #clickNewUser {
+            color: blue;
+            background: none;
+            border: none;
+            text-decoration: underline;
+            cursor: pointer
+        }
+    </style>
+</head>
+<body>
+    <div id="icon"> ✅</div>
+    <div>שלום<div id="theName"></div></div>
+    <div>התחברת בהצלחה, מיד נצלול פנימה.</div>
+    <button  id="clickNewUser" onclick="revealUpdating()"> לעדכון פרטים</button>
+    <div id="updating">
+        <div>שם משתמש</div>
+        <input id="newUserName" />
+        <div class="newPassword">סיסמה</div>
+        <input id="newPassword" type="password" />
+        <div id="fisrtName">שם פרטי</div>
+        <input id="firstName" />
+        <div>שם משפחה</div>
+        <input id="lastName" />
+        <div id="er2"></div>
+        <button id="signin" onclick="updateUser()">עדכן</button>
+    </div>
+</body>
+        </html >
