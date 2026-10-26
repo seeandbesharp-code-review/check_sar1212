@@ -43,8 +43,12 @@ async function updateUser() {
             },
             body: JSON.stringify(newUserDetailes)
         });
+       
         if (!responseOurPost.ok) {
-            message.textContent = "אירעה שגיאה במהלך העידכון";
+            if (responseOurPost.text = "weak password")
+                message.textContent = "הסיסמה חלשה מידי!";
+            else 
+                message.textContent = "אירעה שגיאה במהלך העידכון";
             throw "Error Updating"
         }
         message.textContent = "העדכון בוצע בהצלחה";
@@ -52,4 +56,23 @@ async function updateUser() {
     catch (e) {
         console.log(e.message)
     }
+}
+
+async function checkPass() {
+
+
+    const pass = document.querySelector("#newPassword").value;
+    if (pass == "") return;
+    const progress = document.querySelector("#progress");
+    const response = await fetch("/api/users/CheckPassword", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(pass)
+    });
+    const progVal = await response.json();
+    progress.value = Number.parseInt(progVal) + 1;
+    progress.style.display = "flex";
+
 }

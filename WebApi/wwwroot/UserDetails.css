@@ -1,0 +1,23 @@
+﻿#icon {
+    font-size: 100px;
+    color: green;
+}
+
+#updating {
+    display: none;
+    flex-direction: column;
+    width: 300px;
+    gap: 10px;
+}
+
+#clickNewUser {
+    color: blue;
+    background: none;
+    border: none;
+    text-decoration: underline;
+    cursor: pointer
+}
+
+#progress {
+    display: none;
+}

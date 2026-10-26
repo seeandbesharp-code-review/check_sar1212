@@ -1,0 +1,12 @@
+wwwroot\Home.css
+wwwroot\Home.html
+wwwroot\home.js
+wwwroot\UserDetailes.html
+wwwroot\UserDetails.css
+wwwroot\UserDetails.js
+C:\Users\User\Desktop\API\WebApi\wwwroot\Home.css
+C:\Users\User\Desktop\API\WebApi\wwwroot\Home.html
+C:\Users\User\Desktop\API\WebApi\wwwroot\home.js
+C:\Users\User\Desktop\API\WebApi\wwwroot\UserDetailes.html
+C:\Users\User\Desktop\API\WebApi\wwwroot\UserDetails.css
+C:\Users\User\Desktop\API\WebApi\wwwroot\UserDetails.js

@@ -1,0 +1,54 @@
+﻿
+* {
+    direction: rtl
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+#newUser {
+    display: none;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 10px
+}
+
+#newUser {
+    flex-direction: column;
+    width: 300px;
+    gap: 10px;
+}
+
+#clickNewUser {
+    color: blue;
+    background: none;
+    border: none;
+    text-decoration: underline;
+    cursor: pointer
+}
+
+    #clickNewUser:hover {
+        color: red
+    }
+
+#er, #er2 {
+    color: red;
+    font-size: 25px;
+}
+
+input, button {
+    max-width: 180px;
+}
+
+#progress {
+    display: none;
+}
+
+

@@ -4,26 +4,7 @@
     <meta charset="utf-8" />
     <title></title>
     <script defer src="UserDetails.js"></script>
-    <style>
-        #icon {
-            font-size: 100px;
-            color: green;
-        }
-
-        #updating {
-            display: none;
-            flex-direction: column;
-            width: 300px;
-            gap: 10px;
-        }
-        #clickNewUser {
-            color: blue;
-            background: none;
-            border: none;
-            text-decoration: underline;
-            cursor: pointer
-        }
-    </style>
+    <link rel="stylesheet" href="UserDetails.css" />
 </head>
 <body>
     <div id="icon"> ✅</div>
@@ -35,6 +16,8 @@
         <input id="newUserName" />
         <div class="newPassword">סיסמה</div>
         <input id="newPassword" type="password" />
+        <button id="passBtn" onclick="checkPass()">בדוק את חוזק הסיסמה שלך!</button>
+        <progress id="progress" max="4"></progress>
         <div id="fisrtName">שם פרטי</div>
         <input id="firstName" />
         <div>שם משפחה</div>

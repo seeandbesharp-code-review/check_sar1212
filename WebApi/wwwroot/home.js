@@ -23,6 +23,7 @@ async function login() {
         },
         body: JSON.stringify(userDetailes)
     });
+
     if (!responseOurPost.ok) {
         const er = document.querySelector("#er")
         er.textContent = "אינך משתמש רשום במערכת, אנא הירשם";
@@ -61,10 +62,34 @@ async function signIn() {
         body: JSON.stringify(newUserDetailes)
     });
     if (!responseOurPost.ok) {
-        er2.textContent = "אירעה שגיאה במהלך הרישום";
-        return
+        if (responseOurPost.text = "the password is weak!")
+            er2.textContent = "הסיסמה חלשה מידי!";
+        else {
+            er2.textContent = "אירעה שגיאה במהלך הרישום";
+        }
+            return
+        
     }
     er2.textContent = "הרישום בוצע בהצלחה, כעת תוכל להתחבר למערכת";
     userN.textContent = ""
     pass.textContent = ""
 }
+async function checkPass(){
+
+
+    const pass = document.querySelector("#newPassword").value;
+    if (pass=="") return;
+    const progress = document.querySelector("#progress");
+    const response = await fetch("/api/users/CheckPassword" , {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(pass)
+    });
+    const progVal =await response.json();
+    progress.value = Number.parseInt(progVal) + 1;
+    progress.style.display = "flex";
+
+}
+
