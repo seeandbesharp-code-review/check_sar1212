@@ -2,6 +2,9 @@
 
 namespace WebApi
 {
+    //In C#, "Id" is written with a small d: UserId instead of UserID.
+    //If you rename it, users.txt still has the old name, so read it with
+    //new JsonSerializerOptions { PropertyNameCaseInsensitive = true }
     public class User
     {
 
